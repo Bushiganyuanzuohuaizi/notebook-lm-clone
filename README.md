@@ -96,7 +96,7 @@ NotebookLM Clone is a document-grounded AI assistant that allows you to:
    - [Assembly AI →](https://www.assemblyai.com/)，google邮箱
    - [Zep AI →](https://www.getzep.com/)，github登录
    - [Firecrawl →](https://www.firecrawl.dev/)，GitHub登录
-   - [OpenAI →](https://openai.com)，学校令牌。
+   - [OpenAI →](https://openai.com)，openRouter
 
 
 ## Usage
